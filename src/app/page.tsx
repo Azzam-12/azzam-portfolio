@@ -57,7 +57,7 @@ export default function Home() {
     },
     {
       title: <b>Ghosh Contracting Company</b>,
-      images: ['Ghosh-1.png', 'Ghosh-2.png', 'Ghosh-3.jpg'],
+      images: ['ghosh-1.png', 'ghosh-2.png', 'ghosh-3.jpg'],
     },
     {
       title: <b>L + R + K</b>,
@@ -97,7 +97,7 @@ export default function Home() {
         { name: 'Photoshop', src: '/photoshop.png' },
         { name: 'Illustrator', src: '/illustrator.png' },
         { name: 'CorelDRAW', src: '/coreldraw.png' },
-        { name: 'Vinyl Cut', src: '/vinyl.png' },
+        { name: 'Vinyl Cut', src: '/Vinyl.png' },
         { name: 'Excel', src: '/excel.png' },
         { name: 'PowerPoint', src: '/powerpoint.png' },
         { name: 'Word', src: '/word.png' },
