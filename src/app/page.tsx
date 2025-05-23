@@ -4,19 +4,6 @@
 import { motion } from 'framer-motion';
 
 export default function Home() {
-  const portfolioItems = [
-    {
-      src: '/azzam-logo.png',
-      alt: 'azzam designs logo',
-      caption: 'azzam designs Logo',
-    },
-    
-    {
-      src: '/ghosh-logo.png',
-      alt: 'Ghosh Contracting Logo',
-      caption: <b>Ghosh Contracting Logo</b>,
-    },
-  ];
 
   return (
     <main className="bg-white text-gray-900 min-h-screen font-sans">
