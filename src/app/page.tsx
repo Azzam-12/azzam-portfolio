@@ -63,6 +63,10 @@ export default function Home() {
       title: <b>L + R + K</b>,
       images: ['LAYAL-1.png', '/LAYAL-2.png', '/LAYAL-3.jpg'],
     },
+    {
+      title: <b>azzam ads works</b>,
+      images: ['ad post.jpg', 'car vinyl post.jpg', 'eid adha.jpg' , 'intikhabat postMessage.jpg' 'ramadan 2025.jpg' , 'untitled-1.jpg'],
+    },
     // Add more projects as needed
   ].map((project, idx) => (
     <motion.div
